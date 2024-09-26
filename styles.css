@@ -1,0 +1,29 @@
+body{
+    display: grid;
+    justify-content: center;
+}
+
+#game-container{
+    background-color: blue;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    border: 5px, double, orange;
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px lightblue;
+   
+}
+
+#title-container{
+
+}
+
+#p-container{
+
+}
+
+#input-container{
+
+}
+
+
